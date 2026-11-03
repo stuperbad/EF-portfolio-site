@@ -1,6 +1,6 @@
-# stuperbad.com
+# evanfinkle.com
 
-Static portfolio site (GitHub Pages, served from `master`). Plain HTML/CSS/JS, no build step.
+Static portfolio site for Evan Finkle (GitHub Pages, served from `master` at www.evanfinkle.com). Sister site: stuperbad.com, the casual/personal one, lives in the `stuperbad/stuperbad.github.io` repo. Plain HTML/CSS/JS, no build step.
 Preview locally with `python3 -m http.server` and open `index.html`.
 
 ## Publishing workflow (authorized by Evan)
